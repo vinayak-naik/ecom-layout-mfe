@@ -1,0 +1,210 @@
+[
+  {
+    "categoryId": 1,
+    "categoryName": "Up to 30% off | Mobile Phones",
+    "categoryProducts": [
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://m.media-amazon.com/images/I/71GLMJ7TQiL._AC_UY327_QL65_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://m.media-amazon.com/images/I/61abLrCfF7L._AC_UY327_QL65_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://m.media-amazon.com/images/I/81dT7CUY6GL._AC_UY327_QL65_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://m.media-amazon.com/images/I/51e9JczbZmL._AC_UY327_QL65_.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": 8,
+    "categoryName": "Up to 40% off | Laptops",
+    "categoryProducts": [
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://m.media-amazon.com/images/I/71sNnXEoWNL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://m.media-amazon.com/images/I/71qTbS09tjL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://m.media-amazon.com/images/I/71awkBRga8L._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://m.media-amazon.com/images/I/71jRlkHQINL._AC_UY327_FMwebp_QL65_.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": 2,
+    "categoryName": "Deals for you in Health and Household",
+    "categoryProducts": [
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://m.media-amazon.com/images/I/61scysRjBTL._AC_SY145_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://m.media-amazon.com/images/I/61nQe-M9aTL._AC_SY145_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://m.media-amazon.com/images/I/710JdrSamPS._AC_SY145_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://m.media-amazon.com/images/I/712a5hjiFLL._AC_SY145_.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": 3,
+    "categoryName": "Up to 50% off | 4+ star great deals for you",
+    "categoryProducts": [
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://m.media-amazon.com/images/I/51dihlan4FL._AC_SY145_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://m.media-amazon.com/images/I/51gtZhmQFvL._AC_SY145_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://m.media-amazon.com/images/I/71VxVpzY9YL._AC_SY145_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://m.media-amazon.com/images/I/71xNSGbJLHL._AC_SY145_.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": 4,
+    "categoryName": "Up to 70% off | Trending new launches",
+    "categoryProducts": [
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/AmazonBrands/Bikram/Bikram1/PC_QC_Tile_1_186x116._SY116_CB595826267_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/AmazonBrands/Bikram/Bikram1/PC_QC_Tile_2_186x116._SY116_CB595826267_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/AmazonBrands/Bikram/Bikram1/PC_QC_Tile_3_186x116._SY116_CB595826267_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/AmazonBrands/Bikram/Bikram1/PC_QC_Tile_4_186x116._SY116_CB595826267_.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": 5,
+    "categoryName": "Up to 60% off | Healthy cooking essentials",
+    "categoryProducts": [
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/AmazonBrands/Bikram/Bikram1/Kitchen_186_1_1._SY116_CB598915197_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/AmazonBrands/Bikram/Bikram1/Kitchen_186_1_3._SY116_CB598915197_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/AmazonBrands/Bikram/Bikram1/Kitchen_186_1_2._SY116_CB598915197_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/AmazonBrands/Bikram/Bikram1/Kitchen_186_1_4._SY116_CB598915197_.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": 6,
+    "categoryName": "Up to 60% off | Healthy cooking essentials",
+    "categoryProducts": [
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/AmazonBrands/Bikram/Bikram1/Kitchen_186_1_1._SY116_CB598915197_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/AmazonBrands/Bikram/Bikram1/Kitchen_186_1_3._SY116_CB598915197_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/AmazonBrands/Bikram/Bikram1/Kitchen_186_1_2._SY116_CB598915197_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/AmazonBrands/Bikram/Bikram1/Kitchen_186_1_4._SY116_CB598915197_.jpg"
+      }
+    ]
+  },
+  {
+    "categoryId": 7,
+    "categoryName": "Up to 60% off | Healthy cooking essentials",
+    "categoryProducts": [
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/AmazonBrands/Bikram/Bikram1/Kitchen_186_1_1._SY116_CB598915197_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/AmazonBrands/Bikram/Bikram1/Kitchen_186_1_3._SY116_CB598915197_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/AmazonBrands/Bikram/Bikram1/Kitchen_186_1_2._SY116_CB598915197_.jpg"
+      },
+      {
+        "discount": 40,
+        "quote": "Deal of the day",
+        "productImage": "https://images-eu.ssl-images-amazon.com/images/G/31/img22/AmazonBrands/Bikram/Bikram1/Kitchen_186_1_4._SY116_CB598915197_.jpg"
+      }
+    ]
+  }
+]

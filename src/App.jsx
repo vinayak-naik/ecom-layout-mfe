@@ -1,9 +1,10 @@
 import './App.css'
+import HeaderComponent from './copmonents/header'
 
 function App() {
 
   return (
-    <div>Layout Micro Frontend</div>
+    <HeaderComponent/>
   )
 }
 
