@@ -13,13 +13,10 @@ export default defineConfig({
         exposes: {
           './App': './src/App.jsx',
         },
-        shared: ['react','react-dom','@mui/icons-material','@mui/material','@emotion/styled','@emotion/react']
+        shared: ['react','react-dom']
       })
   ],
   build: {
-    modulePreload: false,
     target: "esnext",
-    minify: false,
-    cssCodeSplit: false,
   },
 })
