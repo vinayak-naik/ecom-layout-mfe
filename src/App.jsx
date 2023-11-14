@@ -1,9 +1,13 @@
 import './App.css'
 
+import { AccountBalance } from '@mui/icons-material'
+
 function App() {
 
-  return (
+  return (<div>
     <div>Layout Micro Frontend</div>
+    <AccountBalance/>
+  </div>
   )
 }
 

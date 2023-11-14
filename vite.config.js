@@ -13,7 +13,7 @@ export default defineConfig({
         exposes: {
           './App': './src/App.jsx',
         },
-        shared: ['react','react-dom']
+        shared: ['react','react-dom','@mui/icons-material']
       })
   ],
   build: {
